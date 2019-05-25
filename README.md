@@ -1,7 +1,9 @@
 # Create R project and integrate Git(Public user account) with RStudio. Please follow below steps.
+
 Step-1: Download git.exe file with the help of below link:
-	https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN
-Click on git, it will open new tab (https://git-scm.com/). 
+
+	https://git-scm.com/
+	
 Go to new release git software for window and click on it to download.
 
 Step-2: Install git software
