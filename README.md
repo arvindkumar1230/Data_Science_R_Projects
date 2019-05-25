@@ -9,6 +9,7 @@ Step-2: Install git software
 Step-3: Go to Window search (GitBash) and open GitBash command 
 
 Step-4: Type your git username and gmail-id:
+
 Arvind@Arvind MINGW64 ~
 $ git config --global user.name arvindkumar1230
 
